@@ -16,7 +16,7 @@ import javax.servlet.RequestDispatcher;
 import javax.servlet.http.HttpSession;
 /**
  *
- * @author sameer
+ * @author hemraj
  */
 @WebServlet(urlPatterns = {"/UserCheck"})
 public class UserCheck extends HttpServlet {
